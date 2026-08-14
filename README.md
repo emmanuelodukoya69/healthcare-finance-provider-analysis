@@ -2,7 +2,11 @@
 
 Power BI dashboard analyzing 5,000 patient visits — covering billing, treatment and medication costs, insurance coverage, provider performance, and patient satisfaction across a healthcare center's operations (Jan 2024–May 2025).
 
+<img width="800" height="460" alt="HealthCare_Light Mode" src="https://github.com/user-attachments/assets/71361043-7e6e-4032-b295-1eec8be810ba" />
+
 **Dashboard includes:** KPI summary cards (billing, treatment cost, medication cost, room charges, insurance coverage, out-of-pocket), a billing-by-city map, a billing-by-procedure column chart, a diagnosis/service-type breakdown, a billing-by-department bar chart, and interactive filters by patient location, race, and date (year/quarter/month).
+
+<img width="800" height="460" alt="HealthCare_Dark Mode" src="https://github.com/user-attachments/assets/151e68d6-2697-4772-ac34-de9e72910bcf" />
 
 Built from a healthcare finance requirements brief calling for KPI reporting, financial overview, provider insights, and trend analysis in a single interactive report.
 
