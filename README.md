@@ -130,7 +130,3 @@ However, **visit volume shows a data gap**: only 45 visits are recorded in Octob
 4. Evaluate imaging pricing and scheduling efficiency, since X-Ray, CT, and MRI together drive the majority of procedure revenue.
 5. Resolve the October–December 2024 data gap before using year-over-year trend figures in financial planning or reporting.
 6. Track satisfaction alongside revenue per provider going forward, so high performers are recognized on both dimensions rather than volume alone.
-
----
-
-*Source: HealthCare Finance & Provider Performance dashboard (Power BI), 5,000-visit dataset spanning patients, providers, departments, diagnoses, procedures, insurance, and visit records (Jan 2024–May 2025).*
